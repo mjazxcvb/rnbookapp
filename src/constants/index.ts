@@ -1,0 +1,3 @@
+export const SUPABASE_URL = "https://fvchfhrerogfpakjdctp.supabase.co";
+export const SUPABASE_ANON_KEY =
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ2Y2hmaHJlcm9nZnBha2pkY3RwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTM2MzI4MzYsImV4cCI6MjAyOTIwODgzNn0.yUNB0ft9k-7uRhNZoGK2RSiub2-Q71FktZraDTRAyo4";
